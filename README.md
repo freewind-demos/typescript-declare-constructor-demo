@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Declare Constructor Demo
+==================================
+
+使用`new()`语法来为一个外部类型声明新的constructor
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
